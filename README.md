@@ -38,7 +38,8 @@ Documentación oficial de cada herramienta:
 
 ## Autor ✒️
 * Omar Flores:
-    * correo institucional: [omar.flores@utp.ac.pa](omar.flores@utp.ac.pa)
+    * correo institucional: omar.flores@utp.ac.pa
+    * correo personal: oafo2699@gmai.com
     * linkedin: [omarabdielflores](https://www.linkedin.com/in/omarabdielflores/)
 ---
 ⌨️ con ❤️ por [Omar Flores](https://github.com/OmarFloresPTY) 😊
